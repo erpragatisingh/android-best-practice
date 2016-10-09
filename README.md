@@ -9,14 +9,14 @@ This "standard pack" listed below are libraries that are quite popular, widely a
 
 | Name            | Description                                                 |  
 | ----            | ------------                                                |
-| [[Retrofit|Consuming-APIs-with-Retrofit]] | A type-safe REST client for Android which intelligently maps an API into a client interface using annotations.            |
-| [[Glide|Displaying-Images-with-the-Glide-Library]] | A powerful image downloading and caching library for Android. |
-| [[ButterKnife|Reducing-View-Boilerplate-with-Butterknife]] | Using Java annotations, makes Android development better by simplifying common tasks. |
-| [[Parceler|Using-Parceler]] | Android Parcelable made easy through code generation |
+| [Retrofit|Consuming-APIs-with-Retrofit]] | A type-safe REST client for Android which intelligently maps an API into a client interface using annotations.            |
+|[Glide|Displaying-Images-with-the-Glide-Library]] | A powerful image downloading and caching library for Android. |
+| [ButterKnife|Reducing-View-Boilerplate-with-Butterknife]] | Using Java annotations, makes Android development better by simplifying common tasks. |
+| [Parceler|Using-Parceler]] | Android Parcelable made easy through code generation |
 | [IcePick](https://github.com/frankiesardo/icepick) | Android Instance State made easy |
 | [LeakCanary](https://github.com/square/leakcanary) | Catch memory leaks in your apps | 
-| [[Espresso|UI-Testing-with-Espresso]] | Powerful DSL for Android integration testing |
-| [[Robolectric|Unit-Testing-with-Robolectric]] | Efficient unit testing for Android |
+| [Espresso|UI-Testing-with-Espresso]] | Powerful DSL for Android integration testing |
+| [Robolectric|Unit-Testing-with-Robolectric]] | Efficient unit testing for Android |
 
 ### Advanced Pack
 
